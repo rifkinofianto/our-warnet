@@ -1,6 +1,6 @@
 import LoginComponent from "../Components/LoginComponent";
 import "../App.css";
 
-export default function LoginPage() {
+export default function Login() {
   return <LoginComponent className = "rgb-gradient" />;
 }
